@@ -1,0 +1,276 @@
+.btn-black {
+    border: 2px solid black;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-yellow {
+    border: 2px solid yellow;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-red {
+    border: 2px solid red;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-blue {
+    border: 2px solid aqua;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-gray-filled {
+    background-color: #656668;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-yellow-filled {
+    background-color: #F8C013;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-red-filled {
+    background-color: #F2625A;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-grayish-filled {
+    background-color: #B9CCD2;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-blue-filled {
+    background-color: #56C5FF;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-black-look {
+    background-color: #464646;
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-radius-first {
+    border-radius: 10px 10px 10px 0px;
+}
+
+.btn-radius-second {
+    border-radius: 10px 10px 0px 10px;
+}
+
+.btn-radius-third {
+    border-radius: 10px 0px 10px 10px;
+}
+
+.btn-radius-fourth {
+    border-radius: 0px 10px 10px 10px;
+}
+
+.btn-radius-fifth {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.btn-radius-sixth {
+    border-radius: 0px 0px 10px 10px;
+}
+
+.btn-radius-sixth {
+    border-radius: 0px 0px 10px 10px;
+}
+
+.btn-radius-seventh {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.btn-radius-eighth {
+    border-radius: 0px 10px 10px 0px;
+}
+
+.cornerbuttons {
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.cornerbuttonred {
+    background-color: #AD3234;
+    border-radius: 5px;
+}
+
+.cornerbuttonblue {
+    background-color: #3067B9;
+    border-radius: 10px;
+}
+
+.cornerbuttongreen {
+    background-color: #3A943D;
+    border-radius: 15px;
+}
+
+.cornerbuttongold {
+    background-color: #B38C2F;
+    border-radius: 20px;
+}
+
+.transparentbutton {
+    color: rgba(0, 0, 0, 0.2);
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 15px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.minibutton {
+    font-family: sans-serif;
+    background-color: #4C9CE2;
+    color: white;
+    padding: 8px 15px 8px 15px;
+    margin: 15px;
+    font-size: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.defaultbutton {
+    font-family: sans-serif;
+    background-color: #4C9CE2;
+    color: white;
+    padding: 10px 17px 10px 17px;
+    margin: 15px;
+    font-size: 12px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.largebutton {
+    font-family: sans-serif;
+    background-color: #4C9CE2;
+    color: white;
+    padding: 17px 24px 17px 24px;
+    margin: 15px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.minirounded {
+    font-family: sans-serif;
+    background-color: #4C9CE2;
+    color: white;
+    padding: 8px 15px 8px 15px;
+    margin: 15px;
+    font-size: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.defaultrounded {
+    font-family: sans-serif;
+    background-color: #4C9CE2;
+    color: white;
+    padding: 10px 17px 10px 17px;
+    margin: 15px;
+    font-size: 12px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.largerounded {
+    font-family: sans-serif;
+    background-color: #4C9CE2;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    margin: 15px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+p {
+    font-family: sans-serif;
+    color: gray;
+    font-size: 14px;
+}
+
+strong {
+    font-family: sans-serif;
+    color: gray;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+li {
+    font-family: sans-serif;
+    color: gray;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.blackpre {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.graypre {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: gray;
+    border-left: 3px solid rgba(0, 0, 0, 0.2);
+    padding-left: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,35 @@
+body {
+background-image: url(../images/nature.jpg);
+background-size: cover;
+font-family: sans-serif;
+}
+.h1multi {
+    color: white;
+    margin-top: 250px;
+    font-size: 30px;
+    text-align: center;
+}
+.h1navi {
+    color: white;
+    margin-top:10px;
+    text-align: center;
+    font-size: 50px;
+}
+.demo {
+    color: white;
+    background-color: #3AAEE7;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 12px 30px 12px 30px;
+    margin-left: 570px;
+    font-size: 14px;
+}
+.purchase {
+    color: white;
+    background-color: #81C784;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 12px;
+    margin: 10px;
+    font-size: 14px;
+}
